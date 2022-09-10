@@ -495,6 +495,9 @@
     (path "/7593389c-a3dc-4a71-9b13-139db00692ff/dda6647b-0e30-4c68-b150-dc6dd6578bb1"
       (reference "#PWR0184") (unit 1) (value "GND") (footprint "")
     )
+    (path "/1dcb2fe6-9046-4558-a18e-b989b1500ebd/387bca18-2c3c-4c79-a20a-bab4942ad6a1"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7593389c-a3dc-4a71-9b13-139db00692ff/c0fc1888-c19c-45aa-a8d6-c2e90cb6c493"
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric")
     )
@@ -659,6 +662,9 @@
     )
     (path "/1dcb2fe6-9046-4558-a18e-b989b1500ebd/ab7009dd-9e28-48ed-bdc2-b263ebb2f57d"
       (reference "D13") (unit 1) (value "BZX384B9V1-E3-08") (footprint "Diode_SMD:D_SOD-323")
+    )
+    (path "/1dcb2fe6-9046-4558-a18e-b989b1500ebd/3690f533-324b-4c6d-b1d5-23b69cf8b7c6"
+      (reference "D14") (unit 1) (value "SMAJ26A") (footprint "Diode_SMD:D_SMA")
     )
     (path "/7593389c-a3dc-4a71-9b13-139db00692ff/5281f717-da19-409b-960b-bf47f482ad6b"
       (reference "D20") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric")
